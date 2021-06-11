@@ -1,0 +1,12 @@
+ @font-face {
+     font-family: 'Disco3';
+     font-style: normal;
+     font-weight: normal;
+     src: url('./Disco3.ttf');
+ }
+
+ h1 {
+     font-family: 'Disco3';
+     font-weight: 200;
+     color: linear-gradient(to left, rgb(71, 153, 135) 0%, rgb(61, 70, 187) 100%);
+ }
